@@ -11,3 +11,4 @@ unstructured[pdf]
 nltk
 streamlit
 python-dotenv
+pytesseract
