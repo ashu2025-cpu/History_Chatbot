@@ -12,3 +12,4 @@ unstructured[pdf]
 nltk
 streamlit
 python-dotenv
+huggingface_hub[hf_xet]
