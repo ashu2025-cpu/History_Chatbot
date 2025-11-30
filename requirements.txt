@@ -1,3 +1,4 @@
+pytesseract
 langchain-community
 langchain-classic
 langchain-text-splitters
@@ -11,4 +12,3 @@ unstructured[pdf]
 nltk
 streamlit
 python-dotenv
-pytesseract
